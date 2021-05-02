@@ -34,7 +34,7 @@ And why not a text adventure? :speech_balloon: :left_speech_bubble:
     ![Polis FAQ adventure decision tree](./Polis_FAQ_Decision_tree.png)
     ![Polis FAQ adventure decision examples](./Polis_FAQ_Decision_tree_2.png)
     </details>
-* :speech_balloon: The flow is slowly being turned into a text adventure, using the [ink scripting language](https://www.inklestudios.com/ink/) [(here)](./Polis_FAQ_Adventure.ink)
+* :speech_balloon: The flow is slowly being turned into a text adventure, using the [ink scripting](https://www.inklestudios.com/ink/) language [(here)](./Polis_FAQ_Adventure.ink)
 
 ## To Do
 * More meaningful feedback to the user/player is needed at every step.
