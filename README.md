@@ -16,7 +16,7 @@ One that could help people who are interested in using Pol.is to figure out whet
 * :see_no_evil:	they have a clear overview of the process,
 * etc
 
-Essentially a FAQ on steroids 🙂. Maybe even an attempt at semi-automated, early-stage facilitation.
+Essentially a FAQ on steroids 🙂. Maybe even an attempt at semi-automated, early-stage facilitation :gear:	:raising_hand:	.
 
 And why not a text adventure? :speech_balloon: :left_speech_bubble:		
 
